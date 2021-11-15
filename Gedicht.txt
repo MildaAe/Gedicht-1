@@ -4,7 +4,7 @@ Farbpalette
 
 
 Rot
-
+Grün
 Gelb
 Blau
 Hellblau
