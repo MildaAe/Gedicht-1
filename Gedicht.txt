@@ -7,5 +7,6 @@ Blau
 Hellblau
 Dunkelblau
 Magenta
-
+Lila
+Schwarz
 Sind alles tolle Farben.
